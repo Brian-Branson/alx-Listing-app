@@ -197,7 +197,7 @@ export default function Home() {
           <p>Welcome to ALX Luxury Stay, where comfort meets elegance and every guest is treated like royalty.</p>
           <p>Nestled in the heart of the city, our hotel offers a serene escape from the hustle of everyday life.</p>
           <p>From our carefully designed rooms to our attentive staff, every detail is crafted to make your stay unforgettable.</p>
-          <p>Whether you're a business traveler, a family on vacation, or a couple seeking a romantic getaway, our rooms cater to every need and style.</p>
+          <p>Whether you are a business traveler, a family on vacation, or a couple seeking a romantic getaway, our rooms cater to every need and style.</p>
           <p>We take pride in cleanliness, sustainability, and satisfaction—free Wi-Fi, air conditioning, and 24/7 support are standard.</p>
           <p>Experience the warmth and tranquility of ALX Luxury Stay—your home away from home.</p>
         </div>
@@ -211,7 +211,7 @@ export default function Home() {
           <p>
             Email: <a href="mailto:Alxhotel@gmail.com">Alxhotel@gmail.com</a>
           </p>
-          <p>Call: +254 740 xxx</p>
+          <p>Call: +254 740 888 xxx</p>
         </div>
       </section>
     </main>
