@@ -1,4 +1,4 @@
-// constants/index.ts
+
 
 export const CAROUSEL_IMAGES = [
   '/assets/rooms/img-1.png',

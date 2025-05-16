@@ -42,7 +42,7 @@ export default function ImageCarousel() {
       onMouseEnter={() => setIsHovered(false)}
       onMouseLeave={() => setIsHovered(false)}
     >
-      {/* Sliding container */}
+    
       <div
         ref={containerRef}
         className="flex transition-transform duration-700 ease-in-out"
@@ -62,7 +62,6 @@ export default function ImageCarousel() {
         ))}
       </div>
 
-      {/* Arrows */}
       <button
         onClick={prevSlide}
         className="absolute top-1/2 left-4 transform -translate-y-1/2 bg-opacity-70 hover:bg-opacity-90 p-2 rounded-full"

@@ -1,4 +1,4 @@
-// components/common/LoginModal.tsx
+
 import React from 'react';
 
 interface LoginModalProps {
